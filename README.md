@@ -1,5 +1,3 @@
-<img alt="fish" src="images/clown-fish.png" width="160" align="right">
-
 # fish-shop/action-template
 
 A GitHub action repository template for [fish-shop](https://github.com/fish-shop) projects.
