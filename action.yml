@@ -1,0 +1,11 @@
+name: 'fish-shop/<repository-name>'
+description: 'Unimplemented GitHub action'
+branding:
+  icon: 'arrow-down'
+  color: 'green'
+runs:
+  using: 'composite'
+  steps:
+    - name: Unimplemented
+      run: exit 1
+      shell: bash
