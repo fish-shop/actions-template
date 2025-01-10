@@ -5,4 +5,4 @@ on:
       - main
 jobs:
   markdown-links:
-    uses: fish-shop/workflows/.github/workflows/markdown-links.yml@b2aac444bc73a71eefab3eca22225e1f2e2d5727 # v1.9.2
+    uses: fish-shop/workflows/.github/workflows/markdown-links.yml@87881b58a2286829a28c4053900560a2eeeed396 # v1.10.0
